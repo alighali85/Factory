@@ -6,7 +6,7 @@
   "private": true,
   "cacheDirectories": [],
   "scripts": {
-    "heroku-postbuild": "npm factor build"
+    "heroku-postbuild": "npx factor build"
   },
   "factor": {
     "load": [

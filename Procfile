@@ -1,1 +1,1 @@
-web: npm factor serve
+web: npx factor serve
