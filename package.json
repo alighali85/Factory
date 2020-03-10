@@ -4,8 +4,9 @@
   "description": "my personal blog",
   "main": "src/index",
   "private": true,
+  "cacheDirectories": [],
   "scripts": {
-    "heroku-postbuild": "yarn factor build"
+    "heroku-postbuild": "npm factor build"
   },
   "factor": {
     "load": [
