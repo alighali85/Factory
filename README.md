@@ -1,8 +1,9 @@
-# my-blog
+# Factory blog system
 
-_my personal blog_
+_first try to build a custom instance on [Factor](https://factor.dev)
 
-## Built with [Factor](https://factor.dev)
+# this instace is deployed on my Heroku account [Here](https://ali-ghali-blog.herokuapp.com/)
+
 
 ```bash
 # Run development server
